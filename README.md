@@ -14,7 +14,7 @@ git clone https://github.com/Andrew-Qibin/SeeNet.git
 Before you start, you also need our [pretrained model (google drive)](https://drive.google.com/open?id=1zMGgStdf8AucFmbHlxDI2Fqxlu6t8GIG).
 
 ### Visual examples
-![](https://github.com/Andrew-Qibin/DSS/blob/master/Compares.png)
+![](https://github.com/Andrew-Qibin/SeeNet/blob/master/download.png)
 
 
 ### Attention maps for all VOC images (10582) [(google drive)](https://drive.google.com/open?id=1RodkkAYilOmBxqUdXab_EMZocUD9hd4G).
