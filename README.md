@@ -10,6 +10,8 @@ Please install [Caffe](https://github.com/BVLC/caffe) first. I think you may fin
 ```bash
 cd <caffe_root>/examples
 git clone https://github.com/Andrew-Qibin/SeeNet.git
+
+ipython notebook vis.ipynb
 ```
 Before you start, you also need our [pretrained model (google drive)](https://drive.google.com/open?id=1zMGgStdf8AucFmbHlxDI2Fqxlu6t8GIG).
 
