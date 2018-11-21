@@ -17,11 +17,12 @@ Before you start, you also need our [pretrained model (google drive)](https://dr
 ![](https://github.com/Andrew-Qibin/SeeNet/blob/master/download.png)
 
 
-### Attention maps for all VOC images (10582) [(google drive)](https://drive.google.com/open?id=1RodkkAYilOmBxqUdXab_EMZocUD9hd4G).
+### Attention maps for all VOC images (10582) 
+You can find them [here (google drive)](https://drive.google.com/open?id=1RodkkAYilOmBxqUdXab_EMZocUD9hd4G).
 
 ### If you think this work is helpful, please cite
 ```latex
-@article{hou2016deeply,
+@article{hou2018selferasing,
   title={Self-Erasing Network for Integral Object Attention},
   author={Hou, Qibin and Jiang, Peng-Tao and Wei, Yunchao and Cheng, Ming-Ming},
   booktitle={NeurIPS},
