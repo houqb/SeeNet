@@ -24,7 +24,7 @@ You can find them [here (google drive)](https://drive.google.com/open?id=1RodkkA
 
 ### If you think this work is helpful, please cite
 ```latex
-@article{hou2018selferasing,
+@inproceedings{hou2018selferasing,
   title={Self-Erasing Network for Integral Object Attention},
   author={Hou, Qibin and Jiang, Peng-Tao and Wei, Yunchao and Cheng, Ming-Ming},
   booktitle={NeurIPS},
